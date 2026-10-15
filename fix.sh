@@ -1,2 +1,1 @@
-ls -alh
 ip a
