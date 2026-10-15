@@ -1,2 +1,2 @@
 ls -alh
-
+ip a
